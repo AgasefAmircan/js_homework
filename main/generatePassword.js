@@ -7,5 +7,5 @@ function generatePassword(passwordLength) {
         password+=chars.charAt(x);
     }
     return password;
-}
+} 
 generatePassword(12)
