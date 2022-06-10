@@ -1,0 +1,3 @@
+function every(arr=[],func){
+    
+}

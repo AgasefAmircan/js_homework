@@ -1,0 +1,3 @@
+function map(arr=[],func){
+    
+}

@@ -1,0 +1,3 @@
+function some(arr=[],func){
+    
+}
