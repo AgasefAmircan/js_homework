@@ -7,4 +7,4 @@ function every(arr = [], func) {
         }
     }
     return isTrue;
-}
+} 

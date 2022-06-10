@@ -7,4 +7,4 @@ function filter(arr = [], func) {
         }
     }
     return newArr;
-}
+} 
